@@ -28,6 +28,4 @@ All repos: CI on every push. Changelogs, contributing guides, and worked example
 ### Connect
 
 - **Site** · [cloudandcapital.com](https://cloudandcapital.com)
-- **Writing** · Markets & Mimosas on Substack
-- **Community** · FinOps Weekly Los Angeles — practitioner-led meetup
 - **Maintainer** · [@dianuhs](https://github.com/dianuhs)
